@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot maken test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "test"
+  ],
+  "author": "Mike Van Heddegem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
